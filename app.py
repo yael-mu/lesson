@@ -6,3 +6,4 @@ def add(num1, mun2):
     return num1+num2
 def Subtraction(num1,nu2):
     return num1-num2
+    
