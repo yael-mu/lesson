@@ -7,3 +7,10 @@ def add(num1, mun2):
 
 def previousNum(num):
     return num-1
+  
+def add(numx, numy):
+    return numx*numy
+
+def Subtraction(num1,num2):
+    return num1-num2
+    
