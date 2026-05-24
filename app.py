@@ -13,10 +13,13 @@ def IsZugi(num1):
 def previousNum(num):
     return num-1
   
+def doubleTen(num):
+    return num*10
+  
 def add(numx, numy):
     return numx*numy
 
 def Subtraction(num1,num2):
     return num1-num2
-    
+
 
